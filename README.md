@@ -5,7 +5,7 @@ This repo contains a Django API powered with Django Rest Framework(DRF). It is a
 **I used the following third-party packages**
 1. django-rest-auth and django-allauth: for authentication and authorization
 2. django-phonenumber-field and phonenumbers: to enable mobile-phone number formatting
-3. django-rest-framework: a powerful library (Thanks Tom Christie :+1:)
+3. django-rest-framework: a powerful library (Thanks @tomchristie :+1:)
 
 
 PS: a comment from my mentor @Williano
